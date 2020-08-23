@@ -10,16 +10,6 @@
 
 }
 
-a{
-  font-family: sans-serif;
-  color: #423144;
-  text-decoration: none;
-}
-
-a:hover{
-  color: #fff;
-}
-
 body {
   background-color: #ffdbc5;
 }
@@ -43,8 +33,15 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #cf1b1b;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+}
 
+a{
+  font-family: sans-serif;
+  color: #423144;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #fff;
 }
