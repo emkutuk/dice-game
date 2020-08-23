@@ -10,6 +10,16 @@
 
 }
 
+a{
+  font-family: sans-serif;
+  color: #423144;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #fff;
+}
+
 body {
   background-color: #ffdbc5;
 }
